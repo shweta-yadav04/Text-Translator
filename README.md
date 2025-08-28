@@ -1,9 +1,9 @@
-## Text Translator
+# Text Translator
 
 A  todo list application built with  HTML, CSS, and JavaScript. 
 Stay organized with priority levels, search functionality, and beautiful glassmorphism design.
 
-# ✨ Features
+## ✨ Features
 Core Functionality
 
 1. Add Tasks: Create new tasks with customizable priority levels
@@ -16,7 +16,7 @@ Core Functionality
    
 5. Priority System: Organize tasks by High, Medium, and Low priority
 
-# 📁 Project Structure
+##  📁 Project Structure
 
 todo-master/
 
